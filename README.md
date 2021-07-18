@@ -2,7 +2,7 @@
 I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new teachnologies and solve real world problem while having fun.
 
 Contact Me at:<br/>
- <a href="https://www.linkedin.com/in/devgiri0082/" target="_blank"> <img src ="./linkedIn.png" alt = "linkedIn" target="_blank" rel="noopener noreferrer"> </a>
+ <a href="https://www.linkedin.com/in/devgiri0082/" target="_blank"> <img src ="./linkedIn.png" alt = "linkedIn" width = "30px"> </a>
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
