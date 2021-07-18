@@ -42,7 +42,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 #### Screenshots
 
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.42.33.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.48.29.png" alt = "login Page" width = "400px"/><br/>
-<div style="text-align:center">
+<div align = "center">
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.52.53.png" alt = "login Page" width = "400px"/>
  </div>
 
