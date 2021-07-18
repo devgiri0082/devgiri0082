@@ -48,7 +48,7 @@ This is a full stack project for library, to sign up a new user, issue book to a
  <br/>
  
  ### Frontend Apps
-### Website <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
+### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
 
 #### About
 This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
@@ -63,9 +63,11 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width = "400px"/><br/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
 
-#### <a href = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
+#### Website <a href = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
+ 
  <br/>
- ### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
+ 
+  ### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
 
 #### About
 This is a front end website which suggests new movies to users. Users  can also find additional info by clicking at the poster.
