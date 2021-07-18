@@ -177,6 +177,11 @@ This course was a full-time online class focused on web development using mern s
 - **Program: Bacheror in Computer Science**
 - **Period:  Dec  2019 - Dec 2023**
 
+ I am currently getting my bachelor degree in computer science.
+ 
+ ---
+ 
+ ### <p align = "center">Have a great day<p/>
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
