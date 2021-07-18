@@ -119,28 +119,27 @@ This is a front end website which can be used to create beautiful landing page w
  
 <br/>
  
-### <a href="https://github.com/devgiri0082/class-based-langingPage">Scissor Paper Rock</a>
+ ### Backend Apps
+### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
 
 #### About
- Scissor Paper Rock game with computer. See if you can win.
+This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
 
 #### ⚡️ Built with
 - React.js
-- Styld-components
-- React-router-dom
+- Redux
+- MaterialUI
+- Firebase
 
 #### Screenshots
 
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width = "400px"/><br/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
 
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.01.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.18.png" alt = "signup Page" width = "400px"/><br/>
-<div align = "center">
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.34.png" alt = "Main page" width = "400px"/>
- </div>
-
-
-#### Visit <a href = "https://naughty-lewin-0e9a1b.netlify.app">website<a/>
+#### Visit <a href = "https://practical-meitner-a9e959.netlify.app/">Website<a/>
  
-  <br/>
+ <br/>
+
  
  ### HTML, CSS & JS Only
  
