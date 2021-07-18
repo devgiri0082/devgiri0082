@@ -1,5 +1,5 @@
 ## Hi, I am Dev Giri! 👋
-I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new technologie and solve real world problem while having fun.
+I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new technology and solve real world problem while having fun.
 
 #### Reach me at:<br/>
  <a href="https://www.linkedin.com/in/devgiri0082/" target="_blank"> <img src ="./linkedIn.png" alt = "linkedIn" width = "40px"> </a>
