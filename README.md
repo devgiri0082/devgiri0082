@@ -118,7 +118,7 @@ This is a front end website which can be used to create beautiful landing page w
  
  
 <br/>
- 
+<!--  
  ### Backend Apps
 ### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
 
@@ -138,7 +138,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 
 #### Visit <a href = "https://practical-meitner-a9e959.netlify.app/">Website<a/>
  
- <br/>
+ <br/> -->
 
  
  ### HTML, CSS & JS Only
