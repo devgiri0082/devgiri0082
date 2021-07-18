@@ -63,7 +63,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width = "400px"/><br/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
 
-#### <a src = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
+#### <a href = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
