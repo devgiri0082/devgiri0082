@@ -22,7 +22,8 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ---
 
-### Some of my best projects are listed below:
+### <p>Some of my best projects are listed below:</p>
+
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
