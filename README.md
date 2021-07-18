@@ -55,6 +55,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 
 #### ⚡️ Built with
 - React.js
+- Redux
 - MaterialUI
 - Firebase
 
