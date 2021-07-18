@@ -6,7 +6,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto: devgiri0082@gamil.com" target="_blank"> <img src ="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest/scale-to-width-down/543?cb=20201124061831" alt = "linkedIn" width = "40px"> </a>
  
- ### Languages and Tools:
+ ### My repertoire:
 
 <img style = "pointer-events: none" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
