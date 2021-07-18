@@ -1,7 +1,7 @@
 ## Hi, I am Dev Giri! 👋
 I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new teachnologies and solve real world problem while having fun.
 
-#### Contact Me at:<br/>
+#### Reach me at:<br/>
  <a href="https://www.linkedin.com/in/devgiri0082/" target="_blank"> <img src ="./linkedIn.png" alt = "linkedIn" width = "40px"> </a>
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto: devgiri0082@gamil.com" target="_blank"> <img src ="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest/scale-to-width-down/543?cb=20201124061831" alt = "linkedIn" width = "40px"> </a>
@@ -107,16 +107,36 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.42.33.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.48.29.png" alt = "signup Page" width = "400px"/><br/>
 <div align = "center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" alt = "Input Page" width = "400px"/>
+<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.52.53.png" alt = "Main page" width = "400px"/>
  </div>
- 
-<div align = "center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" alt = "Langing Page" width = "400px"/>
- </div>
-
 
 #### Visit <a href = "https://determined-darwin-c22426.netlify.app/">website<a/>
+ 
+ 
+<br/>
+ 
+### <a href="https://github.com/devgiri0082/class-based-langingPage">Scissor Paper Rock</a>
+
+#### About
+ Scissor Paper Rock game with computer. See if you can win.
+
+#### ⚡️ Built with
+- React.js
+- Styld-components
+- React-router-dom
+
+#### Screenshots
+
+
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.01.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.18.png" alt = "signup Page" width = "400px"/><br/>
+<div align = "center">
+<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/scissor%20paper%20rock/Screen%20Shot%202021-07-18%20at%2021.28.34.png" alt = "Main page" width = "400px"/>
+ </div>
+
+
+#### Visit <a href = "https://naughty-lewin-0e9a1b.netlify.app">website<a/>
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
