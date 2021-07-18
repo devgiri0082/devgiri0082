@@ -30,12 +30,16 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 <br/>
 
+#### About
+This is a full stack project for library, to sign up a new user, issue book to a authorized user and return the issued book. JWT is  used to authenticate a user and access token & Refresh token for login persist and security.
+<br/>
+
 #### ⚡️ Built with
 - React.js
+- MaterialUI
 - Node.js
 - Express.js
 - MongoDB
-- Firebase
 
 <br/>
 
