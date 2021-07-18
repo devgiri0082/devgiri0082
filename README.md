@@ -22,7 +22,8 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ---
 
-### <p align=center style="text-decoration:underline">Some of my best projects are listed below</p>
+### <p align=center >Some of my best projects are listed below</p>
+<br/>
 
 ### FullStack Apps
 #### <a href="https://github.com/devgiri0082/library-management">Library Management System</a>
