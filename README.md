@@ -91,7 +91,8 @@ This is a front end website which suggests new movies to users. Users  can also 
 #### Visit <a href = "https://trusting-fermi-6f0e9d.netlify.app/">website<a/>
 
 <br/>
- ### <a href="https://github.com/devgiri0082/class-based-langingPage">Landing Page Builder</a>
+ 
+### <a href="https://github.com/devgiri0082/class-based-langingPage">Landing Page Builder</a>
 
 #### About
 This is a front end website which can be used to create beautiful landing page with timer.
