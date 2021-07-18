@@ -63,7 +63,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width = "400px"/><br/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
 
-#### Website <a href = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
+#### Visit <a href = "https://practical-meitner-a9e959.netlify.app/">Website<a/>
  
  <br/>
  
@@ -88,7 +88,7 @@ This is a front end website which suggests new movies to users. Users  can also 
  </div>
 
 
-#### Website <a href = "https://trusting-fermi-6f0e9d.netlify.app/">Link<a/>
+#### Visit <a href = "https://trusting-fermi-6f0e9d.netlify.app/">website<a/>
 
 <br/>
  ### <a href="https://github.com/devgiri0082/class-based-langingPage">Landing Page Builder</a>
@@ -114,7 +114,7 @@ This is a front end website which can be used to create beautiful landing page w
  </div>
 
 
-#### Website <a href = "https://determined-darwin-c22426.netlify.app/">Link<a/>
+#### Visit <a href = "https://determined-darwin-c22426.netlify.app/">website<a/>
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
