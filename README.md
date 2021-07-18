@@ -26,7 +26,25 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 <br/>
 
 ### FullStack Apps
-#### <a href="https://github.com/devgiri0082/library-management">Library Management System</a>
+### <a href="https://github.com/devgiri0082/library-management">Library Management System</a>
+
+<br/>
+
+#### ⚡️ Built with
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Firebase
+
+<br/>
+
+#### Screenshots
+
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.42.33.png" alt = "login Page" width = "200px"/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.48.29.png" alt = "login Page" width = "200px"/>
+<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.52.53.png" alt = "login Page" width = "200px"/>
+
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
