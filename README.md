@@ -185,6 +185,21 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 
 #### Visit <a href = "https://peaceful-perlman-8a9ff4.netlify.app/">website<a/>
  
+ ## Education
+###  McLaren College
+- **Program: Full Stack Online Course**
+- **Period: April 2021 - June 2021 (3 Months)**
+
+This course was a full-time online class focused on web development using mern stack. I worked on different projects during this course.
+
+
+
+[More detailed curriculum](https://mclarencollege.in/course-module/)
+
+###  Amrit Scienct Campus
+- **Program: Bacheror in Computer Science**
+- **Period:  Dec  2019 - Dec 2023**
+
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
