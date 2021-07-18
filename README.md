@@ -67,7 +67,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
  
  <br/>
  
-  ### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
+### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
 
 #### About
 This is a front end website which suggests new movies to users. Users  can also find additional info by clicking at the poster.
