@@ -48,7 +48,7 @@ This is a full stack project for library, to sign up a new user, issue book to a
  <br/>
  
  ### Frontend Apps
-### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
+### Website <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
 
 #### About
 This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
@@ -86,7 +86,33 @@ This is a front end website which suggests new movies to users. Users  can also 
  </div>
 
 
-#### <a href = "https://trusting-fermi-6f0e9d.netlify.app/">Link<a/>
+#### Website <a href = "https://trusting-fermi-6f0e9d.netlify.app/">Link<a/>
+
+<br/>
+ ### <a href="https://github.com/devgiri0082/class-based-langingPage">Landing Page Builder</a>
+
+#### About
+This is a front end website which can be used to create beautiful landing page with timer.
+
+#### ⚡️ Built with
+- React.js
+- Formik
+- Yup
+- Styled-components
+- React-router-dom
+
+#### Screenshots
+
+<div align = "center">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" alt = "Input Page" width = "400px"/>
+ </div>
+ 
+<div align = "center">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" alt = "Langing Page" width = "400px"/>
+ </div>
+
+
+#### Website <a href = "https://determined-darwin-c22426.netlify.app/">Link<a/>
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
