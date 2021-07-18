@@ -18,6 +18,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 <img align="left" alt="Firebase" width="26px" src="https://github.com/thunder775/change_to_thunder775/blob/master/images/firebase-1.jpg?raw=true" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" />
+<br/>
 
 ---
 
