@@ -64,6 +64,29 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
 
 #### <a href = "https://practical-meitner-a9e959.netlify.app/">Link<a/>
+ <br/>
+ ### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
+
+#### About
+This is a front end website which suggests new movies to users. Users  can also find additional info by clicking at the poster.
+
+#### ⚡️ Built with
+- React.js
+- Styled-components
+- React-router-dom
+
+#### Screenshots
+
+<div align = "center">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.28.51.png" alt = "Main page" width = "400px"/>
+ </div>
+ 
+<div align = "center">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.29.14.png" alt = "Main page" width = "400px"/>
+ </div>
+
+
+#### <a href = "https://trusting-fermi-6f0e9d.netlify.app/">Link<a/>
 
   <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
