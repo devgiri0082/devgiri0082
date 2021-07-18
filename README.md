@@ -154,8 +154,9 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.48.29.png" alt = "signup Page" width = "400px"/><br/>
+<div align = "center">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "400px"/> 
+  </div>
 <div align = "center">
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "400px"/>
  </div>
