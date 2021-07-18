@@ -1,6 +1,6 @@
 ### Hi, I am Dev Giri! 👋
-
-I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love learning new teachnologies and using those technologies to solve real world problem.
+--
+I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love learning new teachnologies and solving real world problem.
 <!--
 **devgiri0082/devgiri0082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
