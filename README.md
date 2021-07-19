@@ -167,7 +167,8 @@ This is a front end website which can be used to create beautiful landing page w
 - **Program: Full Stack Online Course**
 - **Period: April 2021 - June 2021 (3 Months)**
 
-This course was a full-time online class focused on web development using mern stack. I worked on different projects during this course.
+ 
+ this was a full-time online course focused on web development using MERN stack. I worked on different projects during this course.
 
 
 
