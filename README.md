@@ -23,7 +23,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 ---
 
 ### Stats
-<div style ={{display: "flex", justifyContent = "space-between"}}>
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt" alt = "Dev's Stats"/>
 </a>
