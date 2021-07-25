@@ -24,12 +24,10 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ### Stats
 
-
  ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgiri0082&layout=compact&theme=cobalt)](https://github.com/devgiri0082/github-readme-stats)
  
-
 
 ---
 
