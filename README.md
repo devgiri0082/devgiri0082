@@ -23,16 +23,11 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 ---
 
 ### Stats
-<div style = {{display: "flex", "flex-direction": "column"}}>
-<a href="https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt" alt = "Dev's Stats"/>
-</a>
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt)
  
-<a href="https://github.com/devgiri0082">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgiri0082&layout=compact&theme=cobalt" />
-</a>
- 
- </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgiri&layout=compact&theme=cobalt)](https://github.com/devgiri0082)
+
+
  
 
 ---
