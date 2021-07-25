@@ -6,7 +6,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
  &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto: devgiri0082@gamil.com" target="_blank"> <img src ="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest/scale-to-width-down/543?cb=20201124061831" alt = "linkedIn" width = "40px"> </a>
  
- ### My repertoire:
+ ### My Repertoire:
 
 <img style = "pointer-events: none" align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -19,6 +19,14 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F3f%2FGit_icon.svg%2F1024px-Git_icon.svg.png&f=1&nofb=1" />
 <br/>
+
+---
+
+### Stats
+<div>
+ ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgiri0082&show_icons=true&theme=cobalt)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgiri0082&layout=compact&theme=cobalt)](https://github.com/devgiri0082/github-readme-stats)
+</div>
 
 ---
 
