@@ -56,8 +56,9 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 <img src = "https://user-images.githubusercontent.com/52324081/148967351-9e30c576-854e-44d3-8395-a61894e01cb1.png"/>
 <img src = "https://user-images.githubusercontent.com/52324081/148967944-cc988944-bff5-476d-ab1d-883196e6467c.png"/>
 
-### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
-
+## Answer Board
+#### [Github Repo](https://github.com/devgiri0082/bord-client) | [Website Link](answerboard.netlify.app)
+**Tech : ReactJS, Material UI, Firebase**
 #### About
 This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
 
