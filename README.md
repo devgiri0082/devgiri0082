@@ -25,6 +25,15 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ---
 
+### Feedback received on Upwork
+<hr/>
+![feedback from client](https://user-images.githubusercontent.com/52324081/148963849-7cc3a805-759a-4fbc-9525-083706441d0f.png)
+<hr/>
+![feedback from client](https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png)
+<hr/>
+![feedback from client](https://user-images.githubusercontent.com/52324081/148964024-841fc4ca-7564-449a-a2e9-ae3c9a5e1d55.png)
+<hr/>
+
 ### <p align=center >Some of my best projects are listed below</p>
 <br/>
 
