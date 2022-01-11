@@ -36,32 +36,26 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 <br/>
 
-### <p align=center >Some of my best projects are listed below</p>
+### <p align=center >Personal Projects</p>
 <br/>
 
 ### FullStack Apps
-### <a href="https://github.com/devgiri0082/library-management">Library Management System</a>
 
-#### About
-This is a full stack project for library, to sign up a new user, issue book to a authorized user and return the issued book. JWT is  used to authenticate a user and access token & Refresh token for login persist and security.
+## Bord: Social Media Website
+#### [Github Repo Front-End](https://github.com/devgiri0082/bord-client) | [Github Repo Back-End](https://github.com/devgiri0082/bord-server) | [Website Link](https://socialbord.netlify.app/)
+**Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
+* Website for developers to share their thoughts and follow other developers
+* I built it from scratch including authentication, and used JWT for authorization 
+* You can follow other users and it generates a Feed which contains posts of all the users you are following
+* You can like a post, view other users’ profile and unfollow them if you want
+* You can login with username "devgiri" and password "123456789" or create a new account and have a look
 
-#### ⚡️ Built with
-- React.js
-- MaterialUI
-- Node.js
-- Express.js
-- MongoDB
+###### Screenshots :
+<img src = "https://user-images.githubusercontent.com/52324081/148966956-019433ef-18d5-414c-9ef1-06c1de34195b.png"/>
+<img src = "https://user-images.githubusercontent.com/52324081/148967175-0c039975-fbad-449c-976b-628175006b14.png"/>
+<img src = "https://user-images.githubusercontent.com/52324081/148967351-9e30c576-854e-44d3-8395-a61894e01cb1.png"/>
+<img src = "https://user-images.githubusercontent.com/52324081/148967944-cc988944-bff5-476d-ab1d-883196e6467c.png"/>
 
-#### Screenshots
-
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.42.33.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.48.29.png" alt = "signup Page" width = "400px"/><br/>
-<div align = "center">
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/library%20management%20system/Screen%20Shot%202021-07-18%20at%2019.52.53.png" alt = "Main page" width = "400px"/>
- </div>
- 
- <br/>
- 
- ### Frontend Apps
 ### <a href="https://github.com/devgiri0082/capStone-client">Answer Board</a>
 
 #### About
