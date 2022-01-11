@@ -62,18 +62,11 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 #### About
 This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
 
-#### ⚡️ Built with
-- React.js
-- Redux
-- MaterialUI
-- Firebase
 
 #### Screenshots
 
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width = "400px"/><br/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.40.png" alt="Student Page" width = "400px"/>
-
-#### Visit <a href = "https://practical-meitner-a9e959.netlify.app/">Website<a/>
  
  <br/>
  
