@@ -116,8 +116,8 @@ This is a front end website which can be used to create beautiful landing page w
 #### Screenshots
 
 <div style = "dispaly: flex">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "400px"/> 
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "400px"/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "48%"/> 
+<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "48%"/>
  </div>
  
   <br/>
@@ -135,8 +135,9 @@ This is a front end website which can be used to create beautiful landing page w
 #### Screenshots
 
 <div style="dispaly: flex;">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.43.png" alt = "Main Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.54.png" alt = "MainPage" width = "400px"/><br/>
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.53.26.png" alt = "Main page" width = "400px"/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.43.png" alt = "Main Page" width = "48%"/> 
+ <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.54.png" alt = "MainPage" width = "48%"/>
+<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.53.26.png" alt = "Main page" width = "48%"/>
  </div>
 
  ## Education
@@ -153,7 +154,7 @@ This is a front end website which can be used to create beautiful landing page w
 
 ###  Amrit Scienct Campus
 - **Program: Bacheror in Computer Science**
-- **Period:  Dec  2019 - Dec 2023**
+- **Period:  Dec  2019 - Dec 2024**
 
  I am currently getting my bachelor degree in computer science.
  
