@@ -43,8 +43,6 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 <img src = "https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png"/>
 <br/>
 <img src = "https://user-images.githubusercontent.com/52324081/148964818-31cab72e-2d53-49cc-906f-8bd682f2b84e.png"/>
-
-
 <br/>
 
 ### <p align=center >Personal Projects</p>
