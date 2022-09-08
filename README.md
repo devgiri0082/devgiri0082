@@ -96,9 +96,9 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-<div style = "display: flex">
+<div style = "display: flex;">
   <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" width="48%"/>
-  <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width = "48%"/>
+  <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width ="48%"/>
  </div>
  
 <br/>
