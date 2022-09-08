@@ -75,12 +75,9 @@ This is a front end website which suggests new movies to users. Users  can also 
 
 #### Screenshots
 
-<div align = "center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.28.51.png" alt = "Main page" width = "400px"/>
- </div>
- 
-<div align = "center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.29.14.png" alt = "Main page" width = "400px"/>
+<div style = "display:flex">
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.28.51.png" alt = "Main page" width = "48%"/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.29.14.png" alt = "Main page" width = "48%"/>
  </div>
  
 <br/>
@@ -99,11 +96,9 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
- <div align = "center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" width = "400px"/>
-   </div>
-<div align = "center">
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width = "400px"/>
+<div style = "display: flex">
+  <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" width="48%"/>
+  <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width = "48%"/>
  </div>
  
 <br/>
@@ -120,10 +115,8 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-<div align = "center">
+<div style = "dispaly: flex">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "400px"/> 
-  </div>
-<div align = "center">
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "400px"/>
  </div>
  
@@ -141,8 +134,8 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
+<div style="dispaly: flex;">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.43.png" alt = "Main Page" width = "400px"/> | <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.54.png" alt = "MainPage" width = "400px"/><br/>
-<div align = "center">
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.53.26.png" alt = "Main page" width = "400px"/>
  </div>
 
