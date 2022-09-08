@@ -37,14 +37,11 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 ---
 
 ### Feedback received on Upwork
-<br/>
-<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148963849-7cc3a805-759a-4fbc-9525-083706441d0f.png"  />
-<br/>
-<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png"/>
-<br/>
-<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148964818-31cab72e-2d53-49cc-906f-8bd682f2b84e.png"/>
-<br/>
-
+<div style="display: flex: justify-content: center">
+<img width="48%" src = "https://user-images.githubusercontent.com/52324081/148963849-7cc3a805-759a-4fbc-9525-083706441d0f.png"  />
+<img width="48%" src = "https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png"/>
+<img width="48%" src = "https://user-images.githubusercontent.com/52324081/148964818-31cab72e-2d53-49cc-906f-8bd682f2b84e.png"/>
+</div>
 ### <p align=center >Personal Projects</p>
 <br/>
 
@@ -55,7 +52,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
 
 
 #### Screenshots
-<div style="dispaly: flex">
+<div style="dispaly: flex: justify-content: center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.14.47.png" alt = "login Page" width="48%"/> 
  <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Dashbord" width= "48%"/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.27.png" alt = "Create Room" width= "48%"/> 
@@ -75,7 +72,7 @@ This is a front end website which suggests new movies to users. Users  can also 
 
 #### Screenshots
 
-<div style = "display:flex">
+<div style="dispaly: flex: justify-content: center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.28.51.png" alt = "Main page" width = "48%"/>
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.29.14.png" alt = "Main page" width = "48%"/>
  </div>
@@ -96,7 +93,7 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-<div style = "display: flex;">
+<div style="dispaly: flex: justify-content: center">
   <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.48.png" width="48%"/>
   <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width ="48%"/>
  </div>
@@ -115,7 +112,7 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-<div style = "dispaly: flex">
+<div style="dispaly: flex: justify-content: center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.45.33.png" alt = "main page" width = "48%"/> 
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "48%"/>
  </div>
@@ -134,7 +131,7 @@ This is a front end website which can be used to create beautiful landing page w
 
 #### Screenshots
 
-<div style="dispaly: flex;">
+<div style="dispaly: flex: justify-content: center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.43.png" alt = "Main Page" width = "48%"/> 
  <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.54.png" alt = "MainPage" width = "48%"/>
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.53.26.png" alt = "Main page" width = "48%"/>
