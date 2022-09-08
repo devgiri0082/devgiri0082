@@ -135,7 +135,6 @@ This is a front end website which can be used to create beautiful landing page w
 <div style="dispaly: flex: justify-content: center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.43.png" alt = "Main Page" width = "48%"/> 
  <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.52.54.png" alt = "MainPage" width = "48%"/>
-<img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/catch%20the%20mouse/Screen%20Shot%202021-07-18%20at%2021.53.26.png" alt = "Main page" width = "48%"/>
  </div>
 
  ## Education
