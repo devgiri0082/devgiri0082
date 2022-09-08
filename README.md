@@ -1,10 +1,21 @@
 ## Hi, I am Dev Giri! 👋
 I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new technology and solve real world problem while having fun.
 
-#### Reach me at:<br/>
- <a href="https://www.linkedin.com/in/devgiri0082/" target="_blank"> <img src ="./linkedIn.png" alt = "linkedIn" width = "40px"> </a>
- &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto: devgiri0082@gamil.com" target="_blank"> <img src ="https://static.wikia.nocookie.net/logopedia/images/d/d8/Gmail_2020.svg/revision/latest/scale-to-width-down/543?cb=20201124061831" alt = "linkedIn" width = "40px"> </a>
+<h2>Connect With Me</h2>
+
+
+
+<a href="mailto:devgiri0082@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a> 
+<a href="https://linkedin.com/in/devgiri0082">
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+
+<a href="https://twitter.com/devgiri0082">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a> 
+
  
  ### Repertoire
 
