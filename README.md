@@ -1,5 +1,5 @@
 <!--Shoutout to https://github.com/regmicmahesh-->
-<img src="https://img.shields.io/badge/-Dev%20Raj%20Giri-blue?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Dev%20Raj%20Giri-blue?style=for-the-badge" width=200>
 
 ---
 
