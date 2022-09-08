@@ -48,8 +48,6 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 ### <p align=center >Personal Projects</p>
 <br/>
 
-### FullStack Apps
-
 ## <a href="https://answerboard.netlify.app/">Answer Board</a>
 **Tech : ReactJS, Material UI, Firebase**
 #### About
@@ -107,8 +105,6 @@ This is a front end website which can be used to create beautiful landing page w
  </div>
  
 <br/>
-
- ### HTML, CSS & JS Only
  
 ### <a href="https://mystifying-payne-e8165a.netlify.app/">Drag & Drop</a>
 
