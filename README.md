@@ -115,7 +115,7 @@ This is a front end website which can be used to create beautiful landing page w
 #### Screenshots
 
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202021-07-18%20at%2021.46.01.png" alt = "Main page" width = "48%"/>
+<img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/custorm%20drag%20and%20drop/Screen%20Shot%202022-09-08%20at%204.28.12%20PM.png" alt = "Main page" width = "48%"/>
  </div>
  
   <br/>
