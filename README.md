@@ -50,23 +50,7 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ### FullStack Apps
 
-## Bord: Social Media Website
-#### [Github Repo Front-End](https://github.com/devgiri0082/bord-client) | [Github Repo Back-End](https://github.com/devgiri0082/bord-server) | [Website Link](https://socialbord.netlify.app/)
-**Tech : ReactJS, Chakra UI, ExpressJS, MongoDB, REST API**
-* Website for developers to share their thoughts and follow other developers
-* I built it from scratch including authentication, and used JWT for authorization 
-* You can follow other users and it generates a Feed which contains posts of all the users you are following
-* You can like a post, view other users’ profile and unfollow them if you want
-* You can login with username "devgiri" and password "123456789" or create a new account and have a look
-
-###### Screenshots :
-<img src = "https://user-images.githubusercontent.com/52324081/148966956-019433ef-18d5-414c-9ef1-06c1de34195b.png"/>
-<img src = "https://user-images.githubusercontent.com/52324081/148967175-0c039975-fbad-449c-976b-628175006b14.png"/>
-<img src = "https://user-images.githubusercontent.com/52324081/148967351-9e30c576-854e-44d3-8395-a61894e01cb1.png"/>
-<img src = "https://user-images.githubusercontent.com/52324081/148967944-cc988944-bff5-476d-ab1d-883196e6467c.png"/>
-
-## Answer Board
-#### [Github Repo](https://github.com/devgiri0082/bord-client) | [Website Link](answerboard.netlify.app)
+## <a href="https://answerboard.netlify.app/">Answer Board</a>
 **Tech : ReactJS, Material UI, Firebase**
 #### About
 This is a front-end app with firebase as backend. Answerboard can be used by teachers or people alike. Teacher can login through their google and then they can create a room with names of the student which create a unique student link and then they  can share the link with their  Students. Students then can open the link choose their name and write their answer which is visible to the teacher in real time.
@@ -79,7 +63,7 @@ This is a front-end app with firebase as backend. Answerboard can be used by tea
  
  <br/>
  
-### <a href="https://github.com/McLaren-College/day-18-project-friday---movies-website-devgiri0082">Movies Website</a>
+### <a href="https://suggestmovies.netlify.app/">Suggest Movies</a>
 
 #### About
 This is a front end website which suggests new movies to users. Users  can also find additional info by clicking at the poster.
@@ -98,13 +82,10 @@ This is a front end website which suggests new movies to users. Users  can also 
 <div align = "center">
 <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/movies%20website/Screen%20Shot%202021-07-18%20at%2020.29.14.png" alt = "Main page" width = "400px"/>
  </div>
-
-
-#### Visit <a href = "https://trusting-fermi-6f0e9d.netlify.app/">website<a/>
-
+ 
 <br/>
  
-### <a href="https://github.com/devgiri0082/class-based-langingPage">Landing Page Builder</a>
+### <a href="https://determined-darwin-c22426.netlify.app/">Landing Page Builder</a>
 
 #### About
 This is a front end website which can be used to create beautiful landing page with timer.
@@ -124,8 +105,6 @@ This is a front end website which can be used to create beautiful landing page w
 <div align = "center">
 <img align = "center" src = "https://github.com/devgiri0082/devgiri0082/blob/main/landing%20page%20builder/Screen%20Shot%202021-07-18%20at%2020.35.56.png" width = "400px"/>
  </div>
-
-#### Visit <a href = "https://determined-darwin-c22426.netlify.app/">website<a/>
  
 <br/>
 
