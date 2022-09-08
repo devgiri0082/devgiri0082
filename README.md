@@ -1,4 +1,8 @@
-## Hi, I am Dev Giri! 👋
+<!--Shoutout to https://github.com/regmicmahesh-->
+<img src="https://img.shields.io/badge/-Dev%20Raj%20Giri-4de6c6?style=for-the-badge" width=400>
+
+---
+
 I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn new technology and solve real world problem while having fun.
 
 <h2>Connect With Me</h2>
