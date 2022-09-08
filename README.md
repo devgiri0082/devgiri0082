@@ -38,11 +38,11 @@ I am a Full Stack Web Developer based out of Kathmandu, Nepal. I love to learn n
 
 ### Feedback received on Upwork
 <br/>
-<img src = "https://user-images.githubusercontent.com/52324081/148963849-7cc3a805-759a-4fbc-9525-083706441d0f.png"  />
+<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148963849-7cc3a805-759a-4fbc-9525-083706441d0f.png"  />
 <br/>
-<img src = "https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png"/>
+<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148963968-1be905a4-438c-4460-8256-15f3ee3c6a10.png"/>
 <br/>
-<img src = "https://user-images.githubusercontent.com/52324081/148964818-31cab72e-2d53-49cc-906f-8bd682f2b84e.png"/>
+<img width="50%" src = "https://user-images.githubusercontent.com/52324081/148964818-31cab72e-2d53-49cc-906f-8bd682f2b84e.png"/>
 <br/>
 
 ### <p align=center >Personal Projects</p>
